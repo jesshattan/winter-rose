@@ -1,4 +1,6 @@
-    My garden roses long ago
+    # Winter Roses
+    
+    _My_ garden roses long ago
     Have perished from the leaf-strewn walks;
     Their pale, fair sisters smile no more
     Upon the sweet-brier stalks.
@@ -38,4 +40,5 @@
     For you may years like leaves unfold
     The heart of Sharon's rose
     
+    --- *John Greenleaf Whittier*
     http://www.public-domain-poetry.com/john-greenleaf-whittier/winter-roses-6226
